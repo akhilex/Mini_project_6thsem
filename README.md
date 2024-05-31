@@ -23,7 +23,7 @@ https://youtu.be/1YsVFOw6cWs
 Clone the project
 
 ```bash
-  git clonehttps://github.com/adityavardhansharma/Mini_Project-TrustNet.git
+  git clone https://github.com/akhilex/Mini_project_6thsem.git
 ```
 
 Go to the project directory
